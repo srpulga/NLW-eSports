@@ -28,6 +28,7 @@
         "eslint-disable-next-line": "off",
         "react/react-in-jsx-scope": "off",
         "react/no-unescaped-entities": "off",
+        "@typescript-eslint/no-floating-promises": "off",
         "semi": "off",
         "@typescript-eslint/semi": [2, "always"]
     }
